@@ -1,6 +1,8 @@
 # Kaggle GoDaddy Microbusiness Density-Forecasting Competition
 Repository created for Kaggle competition: https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/overview/description.
 
+Additional Data can be found here: https://www.godaddy.com/ventureforward/microbusiness-datahub/
+
 ## Basic Description
 
 The goal of this competition is to predict monthly microbusiness density in a given area. You will develop an accurate model trained on U.S. county-level data.
